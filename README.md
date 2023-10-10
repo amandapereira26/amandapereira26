@@ -6,7 +6,7 @@ Estou aprendendo a disciplina de PC
 - estou estudando no Alura (https://alura.com).
 - uso esse espaço para me organizar e compartilhar meus estudos
   
-  https://tenor.com/pt-BR/view/satoru-gojo-gojo-satoru-beautiful-eyes-omg-gojo-is-so-hot-gif-5965381361152012446
+  ![](https://media.tenor.com/UslKvfUzsJ4AAAAC/satoru-gojo-gojo-satoru.gif)
 
 # meus contatos
 amanda.pereira26@escola.pr.gov.br
