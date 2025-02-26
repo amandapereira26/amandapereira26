@@ -1,6 +1,6 @@
 Bem vindo ao meu perfil! Meu nome é Amanda, sou estudante do Colégio João XXIII
 
-Estou aprendendo a disciplina de PC
+Estou aprendendo a disciplina de PC! ;)
 
 - estou aprendendo algumas linguagens de programação
 - estou estudando no Alura (https://alura.com).
